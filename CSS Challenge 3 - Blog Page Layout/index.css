@@ -85,25 +85,15 @@ body {
 Your goal is to restructure the given blog page into a blog-style layout, with a main post section, and a sidebar on the right. The blog post section should take up the majority of the width of the page, while the sidebar takes up the rest directly next to the blog post. The footer and header should remain at full width in their respective locations. Good luck! */
 
 body {
-    display: grid;
-    grid-template-areas: 
-        'header header header header header header'
-        'main main main main main right'
-        'footer footer footer footer footer footer'
+	display: grid;
+	grid-template-columns: 60% 40%;
+	grid-template-rows: auto auto auto;
 }
 
 .header-container {
-    grid-area: header;
+    grid-column: 1 / span 2;
 }
 
 .footer-container {
-    grid-area: footer;
-}
-
-.post-container {
-    grid-area: main;
-}
-
-.sidebar-container {
-    grid-area: right;
+    grid-column: 1 / span 2;
 }
