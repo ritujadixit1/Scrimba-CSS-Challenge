@@ -6,4 +6,4 @@ Day 2 - Introduction - [CSS Challenge 2](https://github.com/ritujadixit1/Scrimba
 
 Day 3 - Introduction - [CSS Challenge 3](https://github.com/ritujadixit1/Scrimba-CSS-Challenge/tree/master/CSS%20Challenge%203%20-%20Blog%20Page%20Layout) - Blog Page Layout
 
-Day 4 - Solution -[CSS Challenge 4]() - Logo Animation
+Day 4 - Solution - [CSS Challenge 4](https://github.com/ritujadixit1/Scrimba-CSS-Challenge/tree/master/CSS%20Challenge%204%20-%20Logo%20Animation) - Logo Animation
