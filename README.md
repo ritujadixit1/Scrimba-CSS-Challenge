@@ -9,3 +9,7 @@ Day 3 - Introduction - [CSS Challenge 3](https://github.com/ritujadixit1/Scrimba
 Day 4 - Solution - [CSS Challenge 4](https://github.com/ritujadixit1/Scrimba-CSS-Challenge/tree/master/CSS%20Challenge%204%20-%20Logo%20Animation) - Logo Animation
 
 Day 5 - Introduction - [CSS Challenge 5](https://github.com/ritujadixit1/Scrimba-CSS-Challenge/tree/master/CSS%20Challenge%205%20-%20Tile-Hovering%20Game) - Tile-Hovering Game
+
+Day 6 - Solution - [CSS Challenge 6]() - Animated One-Page Site
+
+Day 7 - Solution - [CSS Challenge 7]() - Landing Page Creation
